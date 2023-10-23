@@ -1,15 +1,15 @@
 # Object rotation
-In this repo we mimic a small portion of our solar-system🌌,
-We have our 🌞, a 3D model of 🌎 implemented using map and bump images, 
-also a 🌕 which orbit around the earth.
 
-https://codesandbox.io/s/detailed-earth-moon-8mobo
+Kelompok Hydro
 
-Simply,
+- Zakia Kolbi - 5025211049
+- Hana Maheswari - 5025211182
+- Nadiah Nuri Aisyah - 5025211210
 
--> clone/fork the repo
+-----------------------------------------------
 
--> npm install
-
--> npm start
+Cara Run:
+1.  Buka Terminal VSCode, lalu ketik ``cd Rotation-master``
+2.  Ketik ``npm install``
+3.  Ketik ``npm start``
 
