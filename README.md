@@ -1,5 +1,5 @@
 # Webgl-Rotasi
-# Object rotation
+# Object Rotation
 
 Kelompok Hydro
 
