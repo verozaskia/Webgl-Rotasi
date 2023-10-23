@@ -10,7 +10,8 @@ Kelompok Hydro
 -----------------------------------------------
 
 Cara Run:
-1.  Buka Terminal VSCode, lalu ketik ``cd Rotation-master``
-2.  Ketik ``npm install``
-3.  Ketik ``npm start``
+1.  Open Folder Project di VSCode
+2.  Buka Terminal VSCode, lalu ketik ``cd Rotation-master``
+3.  Ketik ``npm install``
+4.  Ketik ``npm start``
 
